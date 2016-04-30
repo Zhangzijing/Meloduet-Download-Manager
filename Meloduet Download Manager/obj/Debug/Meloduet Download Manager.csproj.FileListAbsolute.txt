@@ -1,0 +1,23 @@
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\Meloduet Download Manager.exe
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\Meloduet Download Manager.pdb
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager.csprojResolveAssemblyReference.cache
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\App.g.cs
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager_MarkupCompile.cache
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager_MarkupCompile.lref
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager.g.resources
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet_Download_Manager.Properties.Resources.resources
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager.csproj.GenerateResource.Cache
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager.exe
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\Meloduet Download Manager.pdb
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\Meloduet Download Manager.exe.config
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\MahApps.Metro.dll
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\System.Windows.Interactivity.dll
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\MahApps.Metro.pdb
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\MahApps.Metro.xml
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\App.baml
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\Toqe.Downloader.Business.Contract.dll
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\bin\Debug\Toqe.Downloader.Business.dll
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\MainWindow.g.cs
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\MainWindow.baml
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\View\NewTask.g.cs
+N:\cs\projects\Meloduet Download Manager\Meloduet Download Manager\obj\Debug\View\NewTask.baml

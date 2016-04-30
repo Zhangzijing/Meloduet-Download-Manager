@@ -1,0 +1,95 @@
+﻿<Controls:MetroWindow x:Class="Meloduet_Download_Manager.MainWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Meloduet_Download_Manager"
+        mc:Ignorable="d"
+        Title="Meloduet Download Manager" Height="350" Width="525"
+        >
+    <Grid>
+        <DockPanel
+            LastChildFill="True"
+            MinHeight="256"
+            MinWidth="256"
+            >
+            <Menu
+                DockPanel.Dock="Top"
+                >
+                <MenuItem x:Name="miNewTask" Header="任务" Click="miNewTask_Click">
+                    <MenuItem Header="新建"/>
+                </MenuItem>
+                <MenuItem Header="下载">
+                    <MenuItem Header="暂停"/>
+                    <MenuItem Header="删除"/>
+                    <MenuItem Header="查看详情"/>
+                    <Separator />
+                    <MenuItem Header="全部">
+                        <MenuItem Header="开始"/>
+                        <MenuItem Header="暂停"/>
+                        <MenuItem Header="删除"/>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="设置"/>
+                </MenuItem>
+                <MenuItem Header="视图">
+                    <MenuItem Header="工具栏">
+                        <MenuItem Header="主要"/>
+                        <MenuItem Header="分类"/>
+                        
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="帮助">
+                    <MenuItem Header="使用文档"/>
+                    <MenuItem Header="关于"/>
+
+                </MenuItem>
+                <MenuItem Header="调试">
+                    <MenuItem x:Name="miAppPath" Header="打开程序目录" Click="miAppPath_Click"/>
+                    <MenuItem Header="关于"/>
+
+                </MenuItem>
+            </Menu>
+
+            <ToolBar
+                DockPanel.Dock="Top"
+                x:Name="myToolBar" >
+
+                <Button Content="xxx"/>
+
+                <Button Content="yyy"/>
+
+            </ToolBar>
+            <TreeView MinWidth="80" Width="131" DockPanel.Dock="Left">
+                <TreeViewItem Header="所有任务">
+                    <TreeViewItem Header="全部"></TreeViewItem>
+                    <TreeViewItem Header="程序"></TreeViewItem>
+                    <TreeViewItem Header="文档"></TreeViewItem>
+                    <TreeViewItem Header="图片"></TreeViewItem>
+                    <TreeViewItem Header="视频"></TreeViewItem>
+                    <TreeViewItem Header="归档"></TreeViewItem>
+                </TreeViewItem>
+                <TreeViewItem Header="已完成">
+                    <TreeViewItem Header="全部"></TreeViewItem>
+                    <TreeViewItem Header="程序"></TreeViewItem>
+                    <TreeViewItem Header="文档"></TreeViewItem>
+                    <TreeViewItem Header="图片"></TreeViewItem>
+                    <TreeViewItem Header="视频"></TreeViewItem>
+                    <TreeViewItem Header="归档"></TreeViewItem>
+                </TreeViewItem>
+                <TreeViewItem Header="未完成">
+                    <TreeViewItem Header="全部"></TreeViewItem>
+                    <TreeViewItem Header="程序"></TreeViewItem>
+                    <TreeViewItem Header="文档"></TreeViewItem>
+                    <TreeViewItem Header="图片"></TreeViewItem>
+                    <TreeViewItem Header="视频"></TreeViewItem>
+                    <TreeViewItem Header="归档"></TreeViewItem>
+                </TreeViewItem>
+            </TreeView>
+            <DataGrid>
+                <DataGridColumnHeader Content="ddd"></DataGridColumnHeader>
+            </DataGrid>
+        </DockPanel>
+    </Grid>
+</Controls:MetroWindow>
